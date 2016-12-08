@@ -1,5 +1,7 @@
 <h3>Diff Two Arrays</h3>
-<h2>https://www.freecodecamp.com/challenges/diff-two-arrays</h2>
+
+https://www.freecodecamp.com/challenges/diff-two-arrays
+
 Compare two arrays and return a new array with any items only found in one of the two given arrays, but not both. In other words, return the symmetric difference of the two arrays.
 
 ```javascript
